@@ -1,5 +1,5 @@
 # gbro-collage-broll
-[EN](https://github.com/ihsanbagus/gbro-collage-broll/blob/main/README_EN.md) | [ID](https://github.com/ihsanbagus/gbro-collage-broll/blob/main/README_ID.md) | 
+[EN](https://github.com/ihsanbagus/gbro-collage-broll/blob/main/README_EN.md) | [ID](https://github.com/ihsanbagus/gbro-collage-broll/blob/main/README_ID.md)
 
 <p align="center">
   <img src="assets/demo-purple.gif" width="180" alt="深紫底：多人协作压出科幻胶片">
@@ -47,7 +47,7 @@ Turn a ~5s voiceover line into a premium editorial paper-collage assemble-from-e
 把整个目录放进你的 agent skills 目录（例如 `~/.agents/skills/` 或 `~/.claude/skills/`）：
 
 ```bash
-git clone https://github.com/pyang5166/gbro-collage-broll.git ~/.agents/skills/gbro-collage-broll
+git clone https://github.com/ihsanbagus/gbro-collage-broll.git ~/.agents/skills/gbro-collage-broll
 ```
 
 ## 使用
