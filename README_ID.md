@@ -1,4 +1,12 @@
 # gbro-collage-broll
+[CN](https://github.com/ihsanbagus/gbro-collage-broll/blob/main/README.md) | [EN](https://github.com/ihsanbagus/gbro-collage-broll/blob/main/README_EN.md)
+
+<p align="center">
+  <img src="assets/demo-purple.gif" width="180" alt="深紫底：多人协作压出科幻胶片">
+  <img src="assets/demo-yellow.gif" width="180" alt="芥末黄底：错误被印刷机批量放大">
+  <img src="assets/demo-red.gif" width="180" alt="红底：导演之手摆放棋盘走位">
+  <img src="assets/demo-teal.gif" width="180" alt="青绿底：剪刀裁开镜头轨道">
+</p>
 
 Mengubah satu baris naskah voice-over (~5 detik) menjadi *sharp visual idea*, lalu menghasilkan **animasi assembly kolase kertas halftone (halftone paper-collage)** bergaya editorial premium sebagai B-roll — didukung oleh generasi video first/last-frame Gemini Omni Flash.
 
@@ -37,7 +45,7 @@ Skrip generasi video (`scripts/generate_video.py` + `scripts/upload_file.py`) su
 Tempatkan seluruh direktori ke dalam direktori agent skills Anda (misalnya `~/.agents/skills/` atau `~/.claude/skills/`):
 
 ```
-git clone https://github.com/pyang5166/gbro-collage-broll.git ~/.agents/skills/gbro-collage-broll
+git clone https://github.com/ihsanbagus/gbro-collage-broll.git ~/.agents/skills/gbro-collage-broll
 ```
 
 ## Cara Penggunaan
