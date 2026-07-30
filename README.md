@@ -1,4 +1,5 @@
 # gbro-collage-broll
+[EN](https://github.com/ihsanbagus/gbro-collage-broll/blob/main/README_EN.md) | [ID](https://github.com/ihsanbagus/gbro-collage-broll/blob/main/README_ID.md) | 
 
 <p align="center">
   <img src="assets/demo-purple.gif" width="180" alt="深紫底：多人协作压出科幻胶片">
