@@ -1,4 +1,12 @@
 # gbro-collage-broll
+[CN](https://github.com/ihsanbagus/gbro-collage-broll/blob/main/README.md) | [ID](https://github.com/ihsanbagus/gbro-collage-broll/blob/main/README_ID.md)
+
+<p align="center">
+  <img src="assets/demo-purple.gif" width="180" alt="深紫底：多人协作压出科幻胶片">
+  <img src="assets/demo-yellow.gif" width="180" alt="芥末黄底：错误被印刷机批量放大">
+  <img src="assets/demo-red.gif" width="180" alt="红底：导演之手摆放棋盘走位">
+  <img src="assets/demo-teal.gif" width="180" alt="青绿底：剪刀裁开镜头轨道">
+</p>
 
 Turn a ~5s voiceover line into a sharp visual idea, then generate a premium editorial **halftone paper-collage assemble-from-empty animation** as B-roll — powered by Gemini Omni Flash first/last-frame video generation.
 
@@ -37,7 +45,7 @@ The video generation scripts (`scripts/generate_video.py` + `scripts/upload_file
 Place the entire directory into your agent skills directory (e.g. `~/.agents/skills/` or `~/.claude/skills/`):
 
 ```
-git clone https://github.com/pyang5166/gbro-collage-broll.git ~/.agents/skills/gbro-collage-broll
+git clone https://github.com/ihsanbagus/gbro-collage-broll.git ~/.agents/skills/gbro-collage-broll
 ```
 
 ## Usage
